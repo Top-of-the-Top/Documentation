@@ -84,12 +84,17 @@ nav_order: 1
 - Писать на **английском языке**
 - **Отделять тело пустой строкой** от заголовка
 - **Тело коммита - не более 72 символов** в строке
+- **Внутри scope области ()** мы указываем название директории, файла или номер задачи из Jiro
 #### Примеры коммитов
 - docs(readme): add installation instructions
 - docs(git-guide): create branch naming conventions
 - content: add sprint 1 report
 - fix(readme): correct typo in introduction
 - style(docs): improve markdown formatting
+- feat(frontend, KAN-7): add user dashboard  
+- fix(KAN-15): resolve login timeout
+- chore(deps): update security patches
+- refactor(api, KAN-33): optimize endpoints
 #### Описание процесса работы с PR:
 1. `Создание ветки`
 2. `Открытие PR`
