@@ -88,7 +88,7 @@ nav_order: 1
 #### Примеры коммитов
 - docs(readme): add installation instructions
 - docs(git-guide): create branch naming conventions
-- content: add sprint 1 report
+- meetings: add new meeting 
 - fix(readme): correct typo in introduction
 - style(docs): improve markdown formatting
 - feat(frontend, KAN-7): add user dashboard  
